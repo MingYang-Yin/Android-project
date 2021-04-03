@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My UI Test</string>
+    <string name="name">姓名：</string>
+    <string name="age">年龄：</string>
+    <string name="height">身高：</string>
+    <string name="LButton">显示信息</string>
+    <string name="RButton">删除显示</string>
+    <string name="beforClick"> </string>
+    <string name="returnBtn">返回</string>
+</resources>
